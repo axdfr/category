@@ -13,5 +13,4 @@
 				<alias mapping="EN" name="Category name"/> 
 			</string>
 		</meta>
-		<key="Category" value="name"/>
 </xesextension>
